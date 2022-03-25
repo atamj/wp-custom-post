@@ -1,0 +1,19 @@
+{
+    "name": "atamj/wp-custom-post",
+    "description": "Class that allows you to create custom posts easily",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Atamj\\WpCustomPost\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jael Atam",
+            "email": "jael.atam971@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
